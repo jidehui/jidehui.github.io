@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>季德会的博客</title>
+  <icon>http://example.com/icon.png</icon>
+  <subtitle>jidehui&#39;s blog</subtitle>
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2022-01-06T11:53:47.641Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>季德会</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2022年 元旦</title>
+    <link href="http://example.com/2022/01/01/2022NewYearsDay/"/>
+    <id>http://example.com/2022/01/01/2022NewYearsDay/</id>
+    <published>2021-12-31T16:00:01.000Z</published>
+    <updated>2022-01-06T11:53:47.641Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;元旦来临心情好，风景入目挑一挑，帘卷西风你莫听，夜凉如水你莫察，没事信息翻一翻，祝你好运连成串，喜上眉梢又一年。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="blog" scheme="http://example.com/categories/blog/"/>
+    
+    
+    <category term="data" scheme="http://example.com/tags/data/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>冬赋</title>
+    <link href="http://example.com/2021/12/21/WinterSolstice/"/>
+    <id>http://example.com/2021/12/21/WinterSolstice/</id>
+    <published>2021-12-21T06:39:04.000Z</published>
+    <updated>2022-01-06T11:54:31.979Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;冬至这一天,祝大家节日快乐.&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="blog" scheme="http://example.com/categories/blog/"/>
+    
+    
+    <category term="data" scheme="http://example.com/tags/data/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>使用Hexo快速构建一个博客网站</title>
+    <link href="http://example.com/2021/05/14/HowtouseHexotoquicklybuildingablog/"/>
+    <id>http://example.com/2021/05/14/HowtouseHexotoquicklybuildingablog/</id>
+    <published>2021-05-14T06:33:01.000Z</published>
+    <updated>2021-05-18T16:57:32.128Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;本地构建&quot;&gt;&lt;a href=&quot;#本地构建&quot; class=&quot;headerlink&quot; title=&quot;本地构建&quot;&gt;&lt;/a&gt;本地构建&lt;/h2&gt;&lt;p&gt;&lt;font size=3&gt;安装Node.js、Git,并查看当前软件环境,然后跟着我敲命令就行了。&lt;/font&gt;&lt;br&gt;&lt;code&gt;$ node -v &amp;amp;&amp;amp; npm -v &amp;amp;&amp;amp; git --version&lt;/code&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="blog" scheme="http://example.com/categories/blog/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://example.com/2021/05/13/hello-world/"/>
+    <id>http://example.com/2021/05/13/hello-world/</id>
+    <published>2021-05-13T04:39:04.000Z</published>
+    <updated>2021-05-15T11:08:25.247Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post.</summary>
+    
+    
+    
+    <category term="blog" scheme="http://example.com/categories/blog/"/>
+    
+    
+    <category term="data" scheme="http://example.com/tags/data/"/>
+    
+  </entry>
+  
+</feed>
