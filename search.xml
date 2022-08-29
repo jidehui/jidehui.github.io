@@ -1,39 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>2022年 元旦</title>
-    <url>/2022/01/01/2022NewYearsDay/</url>
-    <content><![CDATA[<p>元旦来临心情好，风景入目挑一挑，帘卷西风你莫听，夜凉如水你莫察，没事信息翻一翻，祝你好运连成串，喜上眉梢又一年。</p>
-<span id="more"></span> 
-<h2 id="元-旦-钟-声"><a href="#元-旦-钟-声" class="headerlink" title="元 旦 钟 声"></a>元 旦 钟 声</h2><h3 id="海阔天空"><a href="#海阔天空" class="headerlink" title="(海阔天空)"></a>(海阔天空)</h3><p>昨天与今天<br>相隔在两年<br>往事只留下背影<br>渐行渐远<br>耳边传来了雄浑的钟声<br>那是从远古的年代<br>传到现在的声音<br>是圣贤们为人类设定的<br>感知岁月的音符<br>是来自宇宙深邃之处亘古的梵音<br>划破天空<br>穿越时空<br>就像婴儿呱呱坠地<br>春笋悄悄发芽<br>预示新的一年<br>～2022年的开始</p>
-<p>春夏秋冬<br>像老朋友一样<br>离开一段时间<br>又将陆续来探访人间<br>但岁月老人<br>却无心眷顾地<br>一路向前<br>他从一位黑发的少年<br>走成了皓首的老头<br>岁岁如此<br>周而复始<br>在时间的长河中<br>每个生命都是<br>一颗微不足道的尘埃<br>徜徉于流年之中<br>就要珍惜今天<br>憧憬着明天！！！<br>（作于2022年元旦前夜）</p>
-]]></content>
-      <categories>
-        <category>blog</category>
-      </categories>
-      <tags>
-        <tag>data</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>冬赋</title>
-    <url>/2021/12/21/WinterSolstice/</url>
-    <content><![CDATA[<p>冬至这一天,祝大家节日快乐.</p>
-<span id="more"></span> 
-<h2 id="冬赋"><a href="#冬赋" class="headerlink" title="冬赋"></a>冬赋</h2><h3 id="海阔天空"><a href="#海阔天空" class="headerlink" title="(海阔天空)"></a>(海阔天空)</h3><p>北风夹着<br>凌厉的气势<br>拍打着我的窗棂<br>终于让人感受到<br>冬的铁骑<br>已经兵临城下</p>
-<p>我悄悄地<br>把窗扇的门闩拉上<br>放下布帘<br>把狂野的冬<br>隔在悄无人迹的街巷</p>
-<p>于是<br>充满空灵的冬之夜<br>发出孤独的嗷叫<br>气温一下子<br>掉到低谷</p>
-<p>忽然<br>又听见窗外<br>传来刷刷的雨声<br>这就是冬<br>带给我们的见面礼</p>
-<p>难道冬不好吗？<br>虽然她冷酷<br>但若没有她给我们肤肌<br>制造温暖的落差<br>我们又怎能区分出<br>什么是温暖，什么是残冷<br>也就没有春天的概念<br>和夏天的热烈<br>所以<br>冬天是一切中的潜伏和开始<br>没有她<br>四时错乱<br>生态失衡<br>也许就更没有地球村的和谐！！！<br>（作于2021.12.21夜）</p>
-]]></content>
-      <categories>
-        <category>blog</category>
-      </categories>
-      <tags>
-        <tag>data</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>使用Hexo快速构建一个博客网站</title>
     <url>/2021/05/14/HowtouseHexotoquicklybuildingablog/</url>
     <content><![CDATA[<h2 id="本地构建"><a href="#本地构建" class="headerlink" title="本地构建"></a>本地构建</h2><p><font size=3>安装Node.js、Git,并查看当前软件环境,然后跟着我敲命令就行了。</font><br><code>$ node -v &amp;&amp; npm -v &amp;&amp; git --version</code></p>
@@ -56,6 +23,21 @@
       </categories>
   </entry>
   <entry>
+    <title>2022年 元旦</title>
+    <url>/2022/01/01/2022NewYearsDay/</url>
+    <content><![CDATA[<p>元旦来临心情好，风景入目挑一挑，帘卷西风你莫听，夜凉如水你莫察，没事信息翻一翻，祝你好运连成串，喜上眉梢又一年。</p>
+<span id="more"></span> 
+<h2 id="元-旦-钟-声"><a href="#元-旦-钟-声" class="headerlink" title="元 旦 钟 声"></a>元 旦 钟 声</h2><h3 id="海阔天空"><a href="#海阔天空" class="headerlink" title="(海阔天空)"></a>(海阔天空)</h3><p>昨天与今天<br>相隔在两年<br>往事只留下背影<br>渐行渐远<br>耳边传来了雄浑的钟声<br>那是从远古的年代<br>传到现在的声音<br>是圣贤们为人类设定的<br>感知岁月的音符<br>是来自宇宙深邃之处亘古的梵音<br>划破天空<br>穿越时空<br>就像婴儿呱呱坠地<br>春笋悄悄发芽<br>预示新的一年<br>～2022年的开始</p>
+<p>春夏秋冬<br>像老朋友一样<br>离开一段时间<br>又将陆续来探访人间<br>但岁月老人<br>却无心眷顾地<br>一路向前<br>他从一位黑发的少年<br>走成了皓首的老头<br>岁岁如此<br>周而复始<br>在时间的长河中<br>每个生命都是<br>一颗微不足道的尘埃<br>徜徉于流年之中<br>就要珍惜今天<br>憧憬着明天！！！<br>（作于2022年元旦前夜）</p>
+]]></content>
+      <categories>
+        <category>blog</category>
+      </categories>
+      <tags>
+        <tag>data</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Hello World</title>
     <url>/2021/05/13/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post.<span id="more"></span> Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
@@ -71,6 +53,24 @@
 <h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
 
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+      <categories>
+        <category>blog</category>
+      </categories>
+      <tags>
+        <tag>data</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>冬赋</title>
+    <url>/2021/12/21/WinterSolstice/</url>
+    <content><![CDATA[<p>冬至这一天,祝大家节日快乐.</p>
+<span id="more"></span> 
+<h2 id="冬赋"><a href="#冬赋" class="headerlink" title="冬赋"></a>冬赋</h2><h3 id="海阔天空"><a href="#海阔天空" class="headerlink" title="(海阔天空)"></a>(海阔天空)</h3><p>北风夹着<br>凌厉的气势<br>拍打着我的窗棂<br>终于让人感受到<br>冬的铁骑<br>已经兵临城下</p>
+<p>我悄悄地<br>把窗扇的门闩拉上<br>放下布帘<br>把狂野的冬<br>隔在悄无人迹的街巷</p>
+<p>于是<br>充满空灵的冬之夜<br>发出孤独的嗷叫<br>气温一下子<br>掉到低谷</p>
+<p>忽然<br>又听见窗外<br>传来刷刷的雨声<br>这就是冬<br>带给我们的见面礼</p>
+<p>难道冬不好吗？<br>虽然她冷酷<br>但若没有她给我们肤肌<br>制造温暖的落差<br>我们又怎能区分出<br>什么是温暖，什么是残冷<br>也就没有春天的概念<br>和夏天的热烈<br>所以<br>冬天是一切中的潜伏和开始<br>没有她<br>四时错乱<br>生态失衡<br>也许就更没有地球村的和谐！！！<br>（作于2021.12.21夜）</p>
 ]]></content>
       <categories>
         <category>blog</category>
