@@ -17,7 +17,7 @@
   </entry>
   <entry>
     <title>庆祝国庆节</title>
-    <url>/2021/12/21/CelebrateNationalDay/</url>
+    <url>/2022/10/01/CelebrateNationalDay/</url>
     <content><![CDATA[<p>国庆节，大家齐欢乐.</p>
 <span id="more"></span> 
 <h2 id="庆国庆喜迎二十大"><a href="#庆国庆喜迎二十大" class="headerlink" title="庆国庆喜迎二十大"></a>庆国庆喜迎二十大</h2><h3 id="海阔天高"><a href="#海阔天高" class="headerlink" title="(海阔天高)"></a>(海阔天高)</h3><p>大地飞歌迎国庆，雏菊灿烂闹金秋。</p>
@@ -49,28 +49,6 @@
       </tags>
   </entry>
   <entry>
-    <title>使用Hexo快速构建一个博客网站</title>
-    <url>/2021/05/14/HowtouseHexotoquicklybuildingablog/</url>
-    <content><![CDATA[<h2 id="本地构建"><a href="#本地构建" class="headerlink" title="本地构建"></a>本地构建</h2><p><font size=3>安装Node.js、Git,并查看当前软件环境,然后跟着我敲命令就行了。</font><br><code>$ node -v &amp;&amp; npm -v &amp;&amp; git --version</code></p>
-<span id="more"></span> 
-<p><font size=3>我以MacOS为例，Windows用户推荐使用nvs 或 nvm 安装:</font></p>
-<figure class="highlight javascript"><table><tr><td class="code"><pre><span class="line">$ npm install -g hexo-cli # 安装hexo执行命令</span><br><span class="line">$ hexo init blog # 在当前目录下创建一个名为blog的目录，并且会把blog目录作为整个博客站点的web目录，然后生成对npm的项目依赖。如果没有设置 folder , 则Hexo 默认在目前的文件夹建立网站。</span><br><span class="line">$ cd blog # 进入指定的blog文件夹目录</span><br><span class="line">$ npm install # Hexo将会在指定文件夹中新建根据之前生成的npm依赖库所需要的文件，最新版本中此命令无论是否执行并不影响接下来的操作，不过为了保险起见，重复install一次也没什么影响。</span><br><span class="line">$ hexo generate # 执行后，自动根据部署之前预生成静态文件和已有的博客内容构建public目录。</span><br><span class="line">$ hexo server # 执行后，启动服务器。默认情况下，访问网址为： http:<span class="comment">//localhost:4000/ 。访问且显示博客内容即表示部署成功。</span></span><br></pre></td></tr></table></figure>
-
-<p>安装成功后的目录如下:<br><font size = 2></p>
-<table>
-<thead>
-<tr>
-<th>&gt;. <br/>&gt;..<br/>&gt;.deploy_git<br/>&gt;.gitignore<br/>&gt;node_modules<br/>&gt;public<br/>&gt;scaffolds<br/>&gt;source<br/>&gt;themes<br/>&gt;_config.yml<br/>&gt;db.json<br/>&gt;package-lock.json</th>
-<th><br/><br/><br/><br/>存放一些已安装插件的模块目录<br/>整个博客站点对外发布的目录。一般情况下，他会通过hexo内建的脚本自动生成，不需要我们手动修改。<br/>里面有数个md文件，定义了每次新建一个文章的时候，默认包含的内容。<br/>Markdown 和 HTML 文件会被解析并放到 public 文件夹，而其他文件会被拷贝过去。<br/>存储博客主题。可以认为是游戏中的skin，皮肤，或者界面样式。内含数个文件夹，每个文件夹为一个主题。文件夹名字为主题名字。<br/>yml格式，配置文件。<br/>存放一些数据的json文件。<br/> json格式，hexo程序代码依赖关系声明文件，被npm所用，除非需要自行安装或者修改插件，否则一般不要随意修改。<br/></th>
-</tr>
-</thead>
-</table>
-</font>]]></content>
-      <categories>
-        <category>blog</category>
-      </categories>
-  </entry>
-  <entry>
     <title>Hello World</title>
     <url>/2021/05/13/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post.<span id="more"></span> Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
@@ -93,5 +71,27 @@
       <tags>
         <tag>data</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>使用Hexo快速构建一个博客网站</title>
+    <url>/2021/05/14/HowtouseHexotoquicklybuildingablog/</url>
+    <content><![CDATA[<h2 id="本地构建"><a href="#本地构建" class="headerlink" title="本地构建"></a>本地构建</h2><p><font size=3>安装Node.js、Git,并查看当前软件环境,然后跟着我敲命令就行了。</font><br><code>$ node -v &amp;&amp; npm -v &amp;&amp; git --version</code></p>
+<span id="more"></span> 
+<p><font size=3>我以MacOS为例，Windows用户推荐使用nvs 或 nvm 安装:</font></p>
+<figure class="highlight javascript"><table><tr><td class="code"><pre><span class="line">$ npm install -g hexo-cli # 安装hexo执行命令</span><br><span class="line">$ hexo init blog # 在当前目录下创建一个名为blog的目录，并且会把blog目录作为整个博客站点的web目录，然后生成对npm的项目依赖。如果没有设置 folder , 则Hexo 默认在目前的文件夹建立网站。</span><br><span class="line">$ cd blog # 进入指定的blog文件夹目录</span><br><span class="line">$ npm install # Hexo将会在指定文件夹中新建根据之前生成的npm依赖库所需要的文件，最新版本中此命令无论是否执行并不影响接下来的操作，不过为了保险起见，重复install一次也没什么影响。</span><br><span class="line">$ hexo generate # 执行后，自动根据部署之前预生成静态文件和已有的博客内容构建public目录。</span><br><span class="line">$ hexo server # 执行后，启动服务器。默认情况下，访问网址为： http:<span class="comment">//localhost:4000/ 。访问且显示博客内容即表示部署成功。</span></span><br></pre></td></tr></table></figure>
+
+<p>安装成功后的目录如下:<br><font size = 2></p>
+<table>
+<thead>
+<tr>
+<th>&gt;. <br/>&gt;..<br/>&gt;.deploy_git<br/>&gt;.gitignore<br/>&gt;node_modules<br/>&gt;public<br/>&gt;scaffolds<br/>&gt;source<br/>&gt;themes<br/>&gt;_config.yml<br/>&gt;db.json<br/>&gt;package-lock.json</th>
+<th><br/><br/><br/><br/>存放一些已安装插件的模块目录<br/>整个博客站点对外发布的目录。一般情况下，他会通过hexo内建的脚本自动生成，不需要我们手动修改。<br/>里面有数个md文件，定义了每次新建一个文章的时候，默认包含的内容。<br/>Markdown 和 HTML 文件会被解析并放到 public 文件夹，而其他文件会被拷贝过去。<br/>存储博客主题。可以认为是游戏中的skin，皮肤，或者界面样式。内含数个文件夹，每个文件夹为一个主题。文件夹名字为主题名字。<br/>yml格式，配置文件。<br/>存放一些数据的json文件。<br/> json格式，hexo程序代码依赖关系声明文件，被npm所用，除非需要自行安装或者修改插件，否则一般不要随意修改。<br/></th>
+</tr>
+</thead>
+</table>
+</font>]]></content>
+      <categories>
+        <category>blog</category>
+      </categories>
   </entry>
 </search>
