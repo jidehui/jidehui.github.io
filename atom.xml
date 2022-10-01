@@ -36,6 +36,25 @@
   </entry>
   
   <entry>
+    <title>庆祝国庆节</title>
+    <link href="http://example.com/2021/12/21/CelebrateNationalDay/"/>
+    <id>http://example.com/2021/12/21/CelebrateNationalDay/</id>
+    <published>2021-12-21T06:39:04.000Z</published>
+    <updated>2022-10-01T14:50:40.000Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;国庆节，大家齐欢乐.&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="blog" scheme="http://example.com/categories/blog/"/>
+    
+    
+    <category term="data" scheme="http://example.com/tags/data/"/>
+    
+  </entry>
+  
+  <entry>
     <title>冬赋</title>
     <link href="http://example.com/2021/12/21/WinterSolstice/"/>
     <id>http://example.com/2021/12/21/WinterSolstice/</id>
